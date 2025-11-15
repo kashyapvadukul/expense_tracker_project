@@ -1,0 +1,12 @@
+[
+    {
+        "amount": 20.0,
+        "category": "books",
+        "date": "2025-11-20"
+    },
+    {
+        "amount": 18.0,
+        "category": "cloths",
+        "date": "2025-11-20"
+    }
+]
